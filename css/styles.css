@@ -56,10 +56,10 @@ body {
   color: #434455;
   font-style: normal;
   }
-  .adress-list:hover {
+  .adress-info:hover {
     color: #404bbf;
   }
-  .adress-list:focus {
+  .adress-info:focus {
     color: #404bbf;
   }
 
@@ -221,7 +221,7 @@ section 4 - portfolio
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
