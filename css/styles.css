@@ -11,8 +11,7 @@ body {
   /* ================================================================== */
   
   .navigation {
-  display: flex;
-  flex-direction: row;
+
   }
   
   .logo {
@@ -130,8 +129,7 @@ section2 - subhero
 
 
 .subhero{
-  width: 1440px;
-  height: 732px;
+
 }
 
 .subhero-hidden-title{
